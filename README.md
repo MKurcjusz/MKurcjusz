@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MKurcjusz
-- 👀 I’m the PhD Student interested in AI, ML and Parametric Engineering. 
+- 👀 I’m the Civil Engineering PhD Student interested in AI, ML, Parametric Engineering and Data Science. 
 
 <!---
 MKurcjusz/MKurcjusz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
